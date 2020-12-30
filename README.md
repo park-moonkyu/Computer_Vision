@@ -7,3 +7,6 @@
 # GAN 실습예정 (2021 1월)
 # Transformer 실습예정 (2021 1월)
 # AE 실습예정 (2021 1월)
+
+
+https://www.notion.so/e50ac0f3916e49f4baaeee20b590ee6e?v=e231e259fbf64795a2f4969c2520c703
